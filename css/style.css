@@ -1,0 +1,23 @@
+table {
+    border: solid 4px rgb(rgba(250, 205, 83, 0.308), green, blue);
+    background-color: bisque;
+    margin: 0px;
+    text-align: center;
+    width: 800px;
+    table-layout: fixed;
+    margin-top: 20px;
+}
+
+table, th, td{
+border: 1px solid;
+border-collapse: collapse;
+padding: 20px;
+}
+
+.days {
+    background-color: rgb(194, 201, 176);
+}
+
+.time {
+    background-color: rgba(255, 208, 0, 0.521);
+}
